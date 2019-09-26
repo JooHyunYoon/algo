@@ -6,5 +6,5 @@ typedef struct node {
 } NODE;
 
 int main(){
-    printf("hello");
+    printf("hello\n");
 }
